@@ -1,0 +1,22 @@
+{
+  "name": "jquery.slimer",
+  "version": "0.0.1",
+  "authors": [
+    "Oier Bravo Urtasun <oier.bravo@biko2.com>"
+  ],
+  "description": "Slider with timer and bar",
+  "main": "jquery.slimer.js",
+  "keywords": [
+    "Slider",
+    "timer"
+  ],
+  "license": "MIT",
+  "homepage": "http://biko2.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
