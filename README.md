@@ -12,13 +12,13 @@ See the [jquery.slimer.js demo](https://github.com/biko2/jquery-slimer).
 ### Install
 
 [jQuery](http://jquery.com/download/) is required, so include it first.
-  Download [jquery.slimer.js](https://raw.githubusercontent.com/liabru/jquery-match-height/master/jquery.matchHeight.js) and include the script in your HTML file:
+  Download [jquery.slimer.js](https://raw.githubusercontent.com/biko2/jquery-slimer/master/jquery.slimer.js) and include the script in your HTML file:
 
 	<script src="jquery.slimer.js" type="text/javascript"></script>
 
 You can also install using the package managers [Bower](http://bower.io/search/?q=slimer)
 
-    bower install slimer
+    bower install jquery-slimer
 
 ### Usage
 
