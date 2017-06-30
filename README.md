@@ -18,7 +18,7 @@ See the [jquery.slimer.js demo](https://github.com/biko2/jquery-slimer).
 
 You can also install using the package managers [Bower](http://bower.io/search/?q=matchHeight)
 
-    bower install matchheight
+    bower install slimer
 
 ### Usage
 
@@ -41,3 +41,7 @@ The default `options` are:
       classLeft: '.js-slider-left',
       classRight: '.js-slider-right'
     }
+
+
+## POWERED by BIKO2
+### Twitter: [@biko2](https://twitter.com/biko2)
