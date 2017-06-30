@@ -16,7 +16,7 @@ See the [jquery.slimer.js demo](https://github.com/biko2/jquery-slimer).
 
 	<script src="jquery.slimer.js" type="text/javascript"></script>
 
-You can also install using the package managers [Bower](http://bower.io/search/?q=matchHeight)
+You can also install using the package managers [Bower](http://bower.io/search/?q=slimer)
 
     bower install slimer
 
