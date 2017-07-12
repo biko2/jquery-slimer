@@ -1,0 +1,23 @@
+{
+  "name": "jquery.slimer",
+  "version": "0.0.3",
+  "description": "Slider with timer and bar",
+  "main": "jquery.slimer.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biko2/jquery-slimer.git"
+  },
+  "keywords": [
+    "slider",
+    "timer"
+  ],
+  "author": "Oier Bravo Urtasun, Biko2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biko2/jquery-slimer/issues"
+  },
+  "homepage": "https://github.com/biko2/jquery-slimer#readme"
+}
